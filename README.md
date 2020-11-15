@@ -23,7 +23,9 @@ information. PLEASE, USE THIS MATERIAL FOR RESEARCH PURPOSES ONLY. If you want t
 the dataset and the code for commercial purposes, please contact to the correspondent author of the paper,
 Marco E. Benalcázar, to the email address marco.benalcazar@epn.edu.ec.
 ## Instructions
-1. Run the script main.m. After running this script, you will have to wait about 1 hour to obtain the
+1.Download the dataset from https://laboratorio-ia.epn.edu.ec/en/resources/dataset/2020_emg_dataset_120
+and paste all the content in the folder "Dataset and Code for Reading the Data and Evaluating the Results".
+1.Run the script main.m. After running this script, you will have to wait about 1 hour to obtain the
 results. You can observe the progress of the code by observing the command window. In our case,
 the code was executed using a personal computer with an AMD FX-8370 Eight-Core Processor of
 4GHz and 16GB of RAM.
