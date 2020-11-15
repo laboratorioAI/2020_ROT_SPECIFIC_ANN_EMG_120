@@ -1,0 +1,2 @@
+Please, download the dataset from https://laboratorio-ia.epn.edu.ec/en/resources/dataset/2020_emg_dataset_120
+and paste all the content in this folder.
